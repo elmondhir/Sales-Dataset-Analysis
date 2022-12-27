@@ -8,7 +8,7 @@ can also find patterns in your lead conversions and drop offs. All of these aspe
 us to optimize your sales process
 
 ## Identifying Problem Statements
-Our problem statements reflect on our business Objective, i.e what we hope to accomplish from this project (report), in this case we can summarize them in the following
+Our problem statements reflect on our business Objective, i.e what we hope to accomplish from this project (report), in this case we can summarize them in the following
 points.
 
 - Analyze historical revenue and profit data.
