@@ -4,8 +4,8 @@ Sales analysis is the mining of commercial data to evaluate the performance of t
 its goals. It provides insights about the top performing and underperforming products/services, the problems in selling and market opportunities, sales forecasting, and
 sales activities that generate revenue.
 Regular sales data analysis provides an understanding of the products that our customers are buying and helps us to dissect why they are behaving in a certain way. We
-can also find patterns in your lead conversions and drop offs. All of these aspects enable
-us to optimize your sales process
+can also find patterns in the lead conversions and drop offs. All of these aspects enable
+us to optimize the sales process
 
 ## Identifying Problem Statements
 Our problem statements reflect on our business Objective, i.e what we hope to accomplish from this project (report), in this case we can summarize them in the following
